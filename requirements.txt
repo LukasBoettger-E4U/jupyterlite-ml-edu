@@ -50,8 +50,8 @@ bqplot
 # python>=3.7
 pytest
 # jupyter>=1.0
-# notebook=5.*
-matplotlib=3.1
+# notebook==5.*
+matplotlib==3.1
 tensorflow>=2
 pandas>=1.0
 tqdm>=4.46
