@@ -44,3 +44,22 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+
+# custom
+# python>=3.7
+pytest
+# jupyter>=1.0
+# notebook=5.*
+matplotlib=3.1
+tensorflow>=2
+pandas>=1.0
+tqdm>=4.46
+scikit-learn>=0.23
+keras-tuner>=1.0
+seaborn
+jupytext
+pip
+nb-filter-cells==0.0.2
+jupyter_contrib_nbextensions
+facets-overview==1.0.*
